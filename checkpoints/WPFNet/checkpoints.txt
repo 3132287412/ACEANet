@@ -1,0 +1,1 @@
+"Please place the checkpoint weight files under this directory."
